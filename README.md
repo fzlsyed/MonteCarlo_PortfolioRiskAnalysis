@@ -16,7 +16,7 @@ If you're curious about financial risk modeling or how compounding works under u
 
 ## Purpose
 
-I created this tool while evaluating a portfolio I was seriously considering. I didn’t just want to know historical averages. I wanted to **see the range of possible outcomes** based on actual past behavior — especially given how unpredictable crypto markets can be.
+I created this tool while evaluating a portfolio I was seriously considering. I didn’t just want to know historical averages. I wanted to **see the range of possible outcomes** based on actual past behavior; especially given how unpredictable crypto markets can be.
 
 This project gave me a clearer sense of:
 
