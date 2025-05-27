@@ -56,7 +56,7 @@ Here's what the simulation does under the hood:
 
 ## Outputs
 
-- 📈 **Simulated Growth Chart**: [MC_STK-Port.png](MC_STK-Port.png)  
+- 📈 **Simulated Growth Chart**: ![Image](https://github.com/user-attachments/assets/00357029-3fff-4e30-96f8-4194b74cc950)  
   A visual of all 100 simulated portfolio paths across 1,000 days
 
 - 📊 **Final Return Summary**  
